@@ -37,7 +37,7 @@ export const Certifications: React.FC = () => {
   const isMobile = useIsMobile();
   return (
     <section id="certifications" style={{ ...styles.section, padding: isMobile ? '4rem 1.25rem' : '5.5rem 4rem' }}>
-      <SectionHeader num="05" title="Credentials" />
+      <SectionHeader num="05" title="Certifications" />
       <div style={styles.list}>
         {certifications.map((cert, i) => (
           <CertItem key={cert.id} cert={cert} index={i} isMobile={isMobile} />

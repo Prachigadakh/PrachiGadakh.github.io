@@ -106,7 +106,7 @@ export const projects: Project[] = [
 export const certifications: Certification[] = [
   { id: 'award', name: 'Excellent Performance & Going the Extra Mile', issuer: 'Worldline Global Services' },
   { id: 'gfg', name: 'Data Structure and Algorithms', issuer: 'Geeks For Geeks' },
-  { id: 'patent', name: 'Patent of Automated Structural Health assessment using Machine Learning', issuer: 'Google Cloud' },
+  { id: 'patent', name: 'Patent of Automated Structural Health assessment using Machine Learning', issuer: 'Indian Patent Advanced Search System' },
   { id: 'btech', name: 'B.Tech in Electronics and Telecommunication', issuer: 'PCCOE Pune · 2020 – 2024' },
 ];
 

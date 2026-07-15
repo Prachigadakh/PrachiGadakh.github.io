@@ -8,7 +8,7 @@ const NAV_LINKS = [
   { href: '#experience', label: 'Experience' },
   { href: '#skills', label: 'Skills' },
   { href: '#projects', label: 'Projects' },
-  { href: '#certifications', label: 'Credentials' },
+  { href: '#certifications', label: 'Certifications' },
 ];
 
 const scrollTo = (e: React.MouseEvent<HTMLAnchorElement>, href: string) => {
